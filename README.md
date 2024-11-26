@@ -1,5 +1,5 @@
 # Spatial-Temporal-Knowledge-Graph-System
-A research project about construction of spatial-temporal knowledge graph, then analysis, tracking, visuzalization of the potential infection paths on the knowledge graph.
+A project about construction of spatial-temporal knowledge graph, then analysis, tracking, visuzalization of the potential infection paths on the knowledge graph.
 
 
 
